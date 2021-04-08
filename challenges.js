@@ -33,11 +33,11 @@ let dog2 = {
 
 // Level 2
 
-// Define three objects representing shoes. Include their color, their size, and an attribute (comftorable, sparkly, etc.).
+// Define three objects representing shoes. Include their color, their size, and a style (comftorable, sparkly, etc.).
 
 
 
-// For each shoe, print out a sentence of the form: The purple slipper is fuzzy.
+// For each shoe, print out a sentence of the form "The <color> shoe is <style>." Fro example: The purple shoe is fuzzy.
 
 
 
@@ -60,8 +60,11 @@ let dog2 = {
 // let person = ___
 // let shoe = ___
 
+
 // Then write some code that tells you if the person can wear the shoe.
 
 
 
 // Change which person or shoe you assign to those variables above and make sure your code still works.
+
+
